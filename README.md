@@ -7,6 +7,7 @@ The motion is modeled in a sparse vertex grid as shown in the figure below:
 ![drawn](https://github.com/btxviny/Trajectory-Optimization-Video-Stabilization/blob/main/images/drawn_small.gif).
 
 The resulting optimized path is:
+
 ![plot](https://github.com/btxviny/Trajectory-Optimization-Video-Stabilization/blob/main/images/plot.png).
 
 And the results are:
