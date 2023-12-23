@@ -2,14 +2,11 @@
 I offer my implementation of ![MeshFlow](http://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Minimum_Latency_Deep_Online_Video_Stabilization_ICCV_2023_paper.pdf)
 I also provide a gradient based optimization method using pytorch with a simple smoothness loss function.
 The motion is modeled in a sparse vertex grid as shown in the figure below:
-![drawn](https://github.com/btxviny/Trajectory-Optimization-Video-Stabilization/blob/main/images/drawn_small.gif)
-
+![drawn](https://github.com/btxviny/Trajectory-Optimization-Video-Stabilization/blob/main/images/drawn_small.gif).
 The resulting optimized path is:
-![plot](https://github.com/btxviny/Trajectory-Optimization-Video-Stabilization/blob/main/images/plot.png)
-
+![plot](https://github.com/btxviny/Trajectory-Optimization-Video-Stabilization/blob/main/images/plot.png).
 And the results are:
-![result](https://github.com/btxviny/Trajectory-Optimization-Video-Stabilization/blob/main/images/concatenated.gif)
-
+![result](https://github.com/btxviny/Trajectory-Optimization-Video-Stabilization/blob/main/images/concatenated.gif).
 ##Instructions
 - Run the following command:
      ```bash
