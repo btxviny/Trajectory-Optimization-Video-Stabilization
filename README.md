@@ -22,4 +22,5 @@ And the results are:
     python stabilize_gradient_optimization.py --in_path input.avi --out_path output.avi
     ```
    -Replace ./input.avi with the path to your unstable video.
+  
    -Replace ./output.avi with the path to where you want to store the result.
